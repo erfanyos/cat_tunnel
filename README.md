@@ -1,10 +1,9 @@
-Certainly! Here's a well-structured and visually appealing README template for your Bash script project on GitHub. You can customize it further to suit your needs.
 
----
+
 
 # Cat Tunnel Installer
 
-![Logo or Banner Image](https://your-image-link.com) <!-- Optional: Add a banner image -->
+![Logo or Banner Image](https://github.com/erfanyos/cat_tunnel/707C4834-59B6-4C5D-A130-112C0EB894F0.jpeg) <!-- Optional: Add a banner image -->
 
 ---
 
@@ -16,7 +15,7 @@ Certainly! Here's a well-structured and visually appealing README template for y
 
 ## 📝 Features
 
-- **Setup Cat Tunnel** for Iran and Kharej servers
+- **Setup Cat Tunnel v1.0.0** for Iran and Kharej servers
 - **Install and Configure HAProxy** for load balancing
 - **Enable TCP Hybla Congestion Control**
 - **Remove Cat Tunnel** completely
@@ -37,8 +36,8 @@ Certainly! Here's a well-structured and visually appealing README template for y
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/cat-tunnel-installer.git
-cd cat-tunnel-installer
+git clone https://github.com/erfanyos/cat_tunnel
+cd cat_tunnel
 ```
 
 2. Run the installer script:
@@ -73,15 +72,15 @@ Follow the on-screen prompts to configure your server.
 
 *(Optional)*
 
-![Screenshot](https://your-screenshot-link.com)
+![Screenshot](https://github.com/erfanyos/cat_tunnel/707C4834-59B6-4C5D-A130-112C0EB894F0.jpeg))
 
 ---
 
 ## ✏️ Author
 
 **Your Name**  
-[Your GitHub Profile](https://github.com/yourusername)  
-Contact: your.email@example.com
+[Your GitHub Profile](https://github.com/erfanyos)  
+Contact: https://t.me/ERFIEF
 
 ---
 
@@ -105,6 +104,3 @@ For support or questions, open an issue on GitHub.
 
 **Happy tunneling!** 🚀
 
----
-
-Feel free to customize the content, add images, badges, or any other sections you'd like to include. This template provides a professional and engaging presentation for your project on GitHub.
