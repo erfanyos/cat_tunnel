@@ -15,7 +15,7 @@ print_cat() {
     clear
     cat << "EOF"
  /\_/\  
-( o.o )  cat tunnel
+( o.o )  cat tunnel V1.0.0
  > ^ <
 EOF
     echo -e "${CYAN}Welcome to Cat Tunnel Installer${NC}"

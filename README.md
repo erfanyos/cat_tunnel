@@ -3,7 +3,7 @@
 
 # Cat Tunnel Installer
 
-![Logo or Banner Image](https://github.com/erfanyos/cat_tunnel/707C4834-59B6-4C5D-A130-112C0EB894F0.jpeg) <!-- Optional: Add a banner image -->
+![Logo or Banner Image](https://github.com/erfanyos/cat_tunnel/cat.jpg) <!-- Optional: Add a banner image -->
 
 ---
 
@@ -43,7 +43,8 @@ cd cat_tunnel
 2. Run the installer script:
 
 ```bash
-sudo ./install.sh
+chmod +x install.sh
+./install.sh
 ```
 
 ---
@@ -53,7 +54,7 @@ sudo ./install.sh
 Once installed, the script will launch an interactive menu:
 
 ```bash
-sudo ./install.sh
+./install.sh
 ```
 
 Follow the on-screen prompts to configure your server.
@@ -72,7 +73,7 @@ Follow the on-screen prompts to configure your server.
 
 *(Optional)*
 
-![Screenshot](https://github.com/erfanyos/cat_tunnel/707C4834-59B6-4C5D-A130-112C0EB894F0.jpeg))
+![Screenshot](https://github.com/erfanyos/cat_tunnel/cat.jpg))
 
 ---
 
@@ -93,12 +94,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🎉 Contribution
 
 Contributions are welcome! Feel free to open issues or pull requests.
-
----
-
-## 📫 Support
-
-For support or questions, open an issue on GitHub.
 
 ---
 
